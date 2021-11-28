@@ -1,0 +1,7 @@
+- pip install opencv-python    # will install opencv python, numpy
+
+import cv2 as cv
+print(cv.__version__)
+
+- pip install qrcode     # qrcode-7.3.1
+
